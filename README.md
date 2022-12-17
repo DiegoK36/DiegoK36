@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200" />
   <h1 align="center">Hi 👋, I'm DiegoK36
-  <h3 align="center">A passionate developer and student of computer engineering in Madrid. I'm learning about Ethical Hacking and doing projects in different languages like Python, Java or C++. I'm learning new techniques to get my best performance.
+  <h3 align="center">A passionate developer and student of computer engineering in Madrid. I'm learning about Ethical Hacking and doing projects in different languages like Python, Java or C++ to get my best performance.
     </div>
 
 ---
