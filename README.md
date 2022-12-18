@@ -34,7 +34,7 @@
     <a href="https://www.linux.org/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp
     <a href="https://www.mysql.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
     <a href="https://www.python.org/downloads/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp
-    <a href="https://code.visualstudio.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp
     <a href="https://aws.amazon.com/es/partners/logo-guidelines/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp
+    <a href="https://code.visualstudio.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp
 
 
