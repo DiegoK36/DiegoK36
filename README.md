@@ -17,4 +17,5 @@
 ---
 <div align="left">
   <h3>🔨 Languages and Tools
+  <div>
   <a href="https://anaconda.org/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
