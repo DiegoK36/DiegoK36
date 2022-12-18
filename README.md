@@ -19,3 +19,12 @@
   <h3>🔨 Languages and Tools</h3>
   <div>
     <a href="https://anaconda.org/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp
+    <a href="https://github.blog/2022-06-08-sunsetting-atom/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="Atom" width="40" height="40"/>&nbsp
+    <a href="https://getbootstrap.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Boostrap" alt="Boostrap" width="40" height="40"/>&nbsp
+    <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp
+    <a href="https://www.docker.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
+    <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp
+    <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp
+    <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp
+    <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp
+
