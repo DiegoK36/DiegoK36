@@ -5,7 +5,7 @@
     </div>
 
 ---
-### 👨‍💻About Me:
+### 👨‍💻 About Me
 
 - 📌 I’m currently working on Ethical Hacking, Python, Java...
 - 🔍 I’m currently learning Python, JavaFX, C++, MySQL, JavaScript, AWS...
@@ -15,3 +15,6 @@
 - 🌐 Website: In process...
 
 ---
+<div align="left">
+  <h3>🔨 Languages and Tools
+  <a href="https://anaconda.org/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
