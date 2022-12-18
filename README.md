@@ -39,6 +39,6 @@
 ---
 ### 📊 My Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DiegoK36&theme=tokyonight&hide_border=true&border_radius=2)
-![DiegoK36 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoK36&show_icons=true&theme=tokyonight&hide_border=true&border_radius=2)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DiegoK36&theme=tokyonight&hide_border=true&radius=2)
+![DiegoK36 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoK36&show_icons=true&theme=tokyonight&hide_border=true&radius=2)
 
