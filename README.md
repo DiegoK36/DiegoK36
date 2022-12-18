@@ -36,4 +36,8 @@
     <a href="https://aws.amazon.com/es/partners/logo-guidelines/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp
     <a href="https://code.visualstudio.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp
 
+---
+### 📊 My Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DiegoK36&theme=tokyonight&hide_border=true)
+![DiegoK36 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoK36&show_icons=true&theme=tokyonight&hide_border=true)
