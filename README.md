@@ -9,6 +9,7 @@
 
 - 📌 I’m currently working on Ethical Hacking, Python, Java...
 - 🔍 I’m currently learning Python, JavaFX, C++, MySQL, JavaScript, AWS...
+- 🤖 Experience with AI (Machine Learning && Deep Learning)
 - 💼 I’m working on different private projects
 - 📥 Ask me about Python Scripts and CiberSecurity
 - 📫 How to reach me: diegors.mail@gmail.com
