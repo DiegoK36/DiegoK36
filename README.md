@@ -12,7 +12,7 @@
 - 🤖 Experience with AI (Machine Learning && Deep Learning)
 - 💼 I’m working on different private projects
 - 📥 Ask me about Python Scripts and CiberSecurity
-- 📫 How to reach me: diegors.mail@gmail.com
+- 📫 How to reach me: bmo036@protonmail.com
 - 🌐 Website: In process...
 
 ---
